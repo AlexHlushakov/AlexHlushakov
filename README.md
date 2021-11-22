@@ -2,7 +2,7 @@
 
 I'm pushing my brand as:
 </br>
-<img src="logo AlexCoes picture.png" alt="AlexCodes Logo.">
+<img src="logo AlexCodes picture.png" alt="AlexCodes Logo.">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
